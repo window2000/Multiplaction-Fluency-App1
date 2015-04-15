@@ -1,0 +1,48 @@
+Multiplaction Data for Fri Mar 20 06:32:45 2015
+
+Number Range:0 to 0
+Right:19
+Wrong:2
+Number Done:21
+Multiplaction Data for Fri Mar 20 06:34:34 2015
+
+Number Range:2 to 10
+Right:22
+Wrong:3
+Number Done:25
+Multiplaction Data for Fri Mar 20 06:35:36 2015
+
+Number Range:0 to 1
+Right:0
+Wrong:0
+Number Done:0
+Multiplaction Data for Fri Mar 20 06:36:22 2015
+
+Number Range:0 to 10
+Right:15
+Wrong:1
+Number Done:16
+Multiplaction Data for Fri Mar 20 06:48:50 2015
+
+Number Range:2 to 19
+Right:0
+Wrong:1
+Number Done:1
+Multiplaction Data for Fri Mar 20 06:49:44 2015
+
+Number Range:10 to 20
+Right:0
+Wrong:0
+Number Done:0
+Multiplaction Data for Fri Mar 20 06:50:30 2015
+
+Number Range:2 to 10
+Right:1
+Wrong:1
+Number Done:3
+Multiplaction Data for Fri Mar 20 06:56:36 2015
+
+Number Range:2 to 9
+Right:0
+Wrong:0
+Number Done:0
